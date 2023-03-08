@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the page of Letit company dedicated to developing a new kind of digital education SAAS service!</h1>
+<h1 align="center">Welcome to the page of <a href="https://letit.app/" target="_blank" rel="noopener">Letit company</a> dedicated to developing a new kind of digital education SAAS service!</h1>
 <p align="center">&nbsp;</p>
 <p>We are pioneers in this field and our mission is to ensure that high-quality education is accessible to all. We believe that everyone should have equal opportunities to gain knowledge and develop their skills.&nbsp;Our SAAS service offers a revolutionary education concept that combines traditional teaching methods with the use of new technologies.</p>
 <p>&nbsp;</p>
